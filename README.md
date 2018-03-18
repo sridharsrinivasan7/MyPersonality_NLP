@@ -1,5 +1,3 @@
-# ssrinivasan
-T
 					Contents
 
 •	myPersonality Dataset.
