@@ -131,4 +131,4 @@ e.	Social network feature alone doesn’t contribute much to the personality predi
 f.	Combination of both is required. 
 
 Future:
-I’d be using any of the NLP tools to break down the raw status texts to come up with better insights.
+I’d be using different ML algorithms and Lexical analysis tools to break down the raw status texts to come up with better insights.
